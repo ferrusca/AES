@@ -1,6 +1,9 @@
 /* Universidad Nacional Autónoma de México */
 /* Paulo Contreras Flores */
+/* Jorge Luis Ferrusca */
 /* paulo.contreras.flores@gmail.com */
+/* jorge.ferrusca@bec.seguridad.unam.mx */
+
 
 // compilar gcc aes_keysched.c -o aes_keysched.o
 
